@@ -1,6 +1,4 @@
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -14,12 +12,14 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">A 4th year Undergrad CS Student</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
+- 🏫 I'm currently an Undergraduate Student majoring in EECS at **NTHU**
+
 - 🔭 I’m currently working on **Python, React, React Native, Nodejs, Next.js and SQL**
 
 - ☁️ I've keen interest in AI, ML and Data. Currently working on a community mobile app and AI-driven web app.
@@ -94,10 +94,3 @@
 </p>
 
 
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-Last Edited on: 29/4/2023
