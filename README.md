@@ -17,8 +17,9 @@
   </ul>
 </div>
 
-Check out  my personal portfolio website! 
-<a href="jasonjonarto.com" target="blank">**jasonjonarto.com**</a>
+Check out my personal portfolio website! 
+<a href="https://jasonjonarto.com" target="_blank">**jasonjonarto.com**</a>
+
 
 <!--Intro start-->
 - 🏫 I'm currently an Undergraduate Student majoring in EECS at **NTHU**
