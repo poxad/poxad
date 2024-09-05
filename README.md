@@ -17,6 +17,8 @@
   </ul>
 </div>
 
+Check out  my personal portfolio website! 
+jasonjonarto.com
 
 <!--Intro start-->
 - 🏫 I'm currently an Undergraduate Student majoring in EECS at **NTHU**
